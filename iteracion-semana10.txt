@@ -1,0 +1,9 @@
+1. Las 2 tareas del backlog que haría primero:
+- Historia 1: Registrar reporte
+- Historia 2: Notificación en Telegram
+
+2. ¿Por qué son las más importantes?
+Porque son el flujo básico del sistema. Sin poder registrar reportes y sin que el revisor se entere, el proceso de veeduría no puede iniciar.
+
+3. ¿Qué significa 'terminado'?
+Que la funcionalidad fue probada, funciona correctamente, fue revisada por el equipo y quedó documentada en ClickUp.

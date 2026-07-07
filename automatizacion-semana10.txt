@@ -1,0 +1,7 @@
+Evento: Una tarea en ClickUp cambia a estado 'requiere_ajuste'.
+
+Acción: n8n detecta el cambio y envía un mensaje a Telegram al canal del equipo.
+
+Mensaje: 'Alerta: La tarea [Nombre] requiere ajuste. Revisar en ClickUp. ID: [ID]'
+
+Información que no debe enviarse: Datos personales de ciudadanos como nombres completos, cédula, dirección, teléfono o detalles sensibles del caso. Solo ID y título.
